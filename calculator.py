@@ -1,3 +1,6 @@
+print("CALCULATOR PROGRAM CREATED ON PYTHON")
+print("************************************")
+print("")
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 z = input("Do you want to * / + - : ")
@@ -12,4 +15,3 @@ elif z == "-":
     print(x - y)
 else:
     print("This didn't work")
-
