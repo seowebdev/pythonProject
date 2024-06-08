@@ -15,5 +15,6 @@ elif z == "-":
     print(x - y)
 else:
     print("This didn't work. Try again - partner! :) :) :)")
+    print("End of program")
 
 #This is my sq root code
