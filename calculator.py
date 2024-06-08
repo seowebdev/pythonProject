@@ -16,5 +16,6 @@ elif z == "-":
 else:
     print("This didn't work. Try again - partner! :) :) :)")
     print("End of program")
+    print("somew new lines")
 
 #This is my sq root code
