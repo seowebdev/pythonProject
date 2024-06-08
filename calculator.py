@@ -17,4 +17,8 @@ else:
     print("This didn't work. Try again - partner! :) :) :)")
     print("End of program")
 
+i = 0
+if i == 0:
+    print("I is equal to zero")
+
 #This is my sq root code
