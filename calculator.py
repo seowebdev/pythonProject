@@ -18,4 +18,8 @@ else:
     print("End of program")
     print("somew new lines")
 
+i = 0
+if i == 0:
+    print("I is equal to zero")
+
 #This is my sq root code
