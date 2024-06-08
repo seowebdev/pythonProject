@@ -20,7 +20,6 @@ else:
 
 i = 0
 if i == 0:
-    sdfsdfs
-    print("I are equal to zero")
+    print("I is equal to zero")
 
 #This is my sq root code
